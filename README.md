@@ -1,4 +1,4 @@
-![Untitled](https://user-images.githubusercontent.com/102479221/167764349-fe83973a-4e89-4ad8-ad7e-d96a969916eb.png)
+![Untitled](https://user-images.githubusercontent.com/102479221/167764543-1c1bc92a-680a-40ee-8aea-2d62554a9fb3.png)
 
 <h1 align="center">Hi 👋, I'm SaifGehlot</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
