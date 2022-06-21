@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm SaifGehlot</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center"> <img style="border-radius: 50%;"  alt="Coding" width="400" src="https://user-images.githubusercontent.com/102479221/163713662-2a0ab9cf-a4f1-40ae-83ff-8a9725c1f365.gif"> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifgehlot07&label=Profile%20views&color=0e75b6&style=flat" alt="saifgehlot07" /> </p>
 
 - 🔭 I’m currently working on [Bankist App](https://bank-host.netlify.app/)
