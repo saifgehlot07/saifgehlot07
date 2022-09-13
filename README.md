@@ -1,4 +1,4 @@
-![github-banner](https://user-images.githubusercontent.com/102479221/183468610-47dd4ab4-29fd-4da6-bfe1-429450434740.png)
+![iMac - 1](https://user-images.githubusercontent.com/102479221/189787017-1a7cf0f6-d015-4640-9d9a-9cb53c92a55f.png)
 
 <h1 align="center">Hi 👋, I'm SaifGehlot</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
